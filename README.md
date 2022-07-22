@@ -27,7 +27,7 @@ Halo，在新新世界里，我们相互照亮。当你打开这个项目，意�
 - 贡献者身份；
 - 可使用组织内所有软件；
 - 可享受组织收益分红；
-- 贡献者NFT徽章
+- 贡献者（灯塔）NFT徽章
 <img src="https://raw.githubusercontent.com/W3T-Web3-Genius-Tools/Read-Me/main/contributor.png" width="200"/>
 
 ### Pay to Join
